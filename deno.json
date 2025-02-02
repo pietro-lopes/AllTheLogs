@@ -1,0 +1,12 @@
+{
+  "name": "@pietro-lopes/allthelogs",
+  "version": "0.1.0",
+  "license": "MIT",
+  "exports": "./main.ts",
+
+  "lint": {
+    "rules": {
+      "exclude": ["prefer-const", "no-unused-vars", "ban-unknown-rule-code"]
+    }
+  }
+}
