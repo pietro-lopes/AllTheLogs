@@ -10,7 +10,9 @@
 - Clone this repository, enter it
 - Make sure Deno is installed
 - At root of this repository, run this command
-`deno install -g --allow-read --allow-write --allow-net=api.github.com --allow-env --allow-sys -n allthelogs .\src\main.ts`
+```bat
+deno install -g --allow-read --allow-write --allow-net=api.github.com --allow-env --allow-sys -n allthelogs .\src\main.ts
+```
 
 ## 🔨How to use
 ### 🆕 First time setup
@@ -43,7 +45,9 @@ ATM10
        |- export/
 ```
 - Go to the root of the modpack folder (where the allthelogs.toml is) and run this command
- `allthelogs --old "2.30" --new "2.31"`
+ ```bat
+ allthelogs --old "2.30" --new "2.31"
+ ```
  - Wait for it to generate the markdown, may take a few minutes on big packs.
  - Now your file is generated and you are free to edit and add more info!
 
