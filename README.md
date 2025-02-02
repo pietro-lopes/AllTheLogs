@@ -60,4 +60,4 @@ ATM10
 You can reach me on [All The Mods Discord](https://discord.gg/allthemods) with `@Uncandango`, you can also open your issue here.
 
 # ⚖️ License
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
